@@ -2,7 +2,7 @@
 export default {
     data() {
         return {
-            image: 'https://mdbcdn.b-cdn.net/img/new/slides/041.webp',
+            image: 'https://www.industrialempathy.com/img/remote/ZiClJf-1280w.avif',
         }
     }
 }
